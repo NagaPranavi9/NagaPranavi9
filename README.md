@@ -1,12 +1,13 @@
 <img src="https://www.fotojet.com/template-imgs/social-media-header/facebook-cover/motivational-1.jpg" align="center" height="398" width="998">
 <h1 align="center">Hi 👋, I'm Naga Pranavi</h1>
-<h3 align="center">A passionate Blockchain developer from India</h3>
+<h2 align="center">I am a person who sees life through the lens of technology. </h2>
+<h3 align="center">A Passionate Blockchain developer from India - Working on Hyperledger fabric</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nagapranavi9&label=Profile%20views&color=0e75b6&style=flat" alt="nagapranavi9" /> </p>
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I am dedicated to learning and continuously improving my skills. **Interested about software development** and have honed my skills in a variety of technologies. My expertise includes **Java, Spring, Spring Boot, Hibernate, JSP, and Servlets**, which I use to build robust backend systems. I am also proficient in **Docker and Kubernetes** for containerization and orchestration, and I have experience with **Hyperledger Fabric for blockchain solutions**. Additionally, I am skilled in **AWS for cloud services**, and I have a strong foundation in **HTML, CSS, JavaScript, React, and Node.js** for front-end and full-stack development. My knowledge extends to **UX design**, ensuring user-friendly interfaces, and I am adept at using **Jenkins and Terraform** for continuous integration and infrastructure as code.
 
-- 💬 Ask me about **Blockchain,Use Cases, PoC, Architectures and Smart contracts**
+- 💬 Ask me about **Java,Spring Boot,React and Node**
 
 - 📫 How to reach me **nagapranavimaley9@gmail.com**
 
@@ -24,8 +25,6 @@
 <p align="left"><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><span></span><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><span></span><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a></p>
 <h3 align="left">Backend Development:</h3>
 <p align="left"> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
-<h3 align="left">Mobile App Development:</h3>
-<p align="left"><a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a><span></span> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
 <h3 align="left">Database:</h3>
 <p align="left"><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 <h3 align="left">Softwares:</h3>
